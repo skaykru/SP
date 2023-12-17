@@ -1,0 +1,4 @@
+/home/denys/Desktop/CP/build/CMakeFiles/edit_cache.dir
+/home/denys/Desktop/CP/build/CMakeFiles/rebuild_cache.dir
+/home/denys/Desktop/CP/build/CMakeFiles/calculator_app.dir
+/home/denys/Desktop/CP/build/CMakeFiles/calculator.dir
